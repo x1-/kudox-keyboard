@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name kudox_footprint)(type KiCad)(uri /Users/a12884/repos/kudox-keyboard/kudox/pcb/kudox_footprints.pretty)(options "")(descr ""))
 )
